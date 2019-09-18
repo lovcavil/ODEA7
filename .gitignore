@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/rapidjson-master/out/build/x64-Debug
+/libconfig-master/out/build/x64-Debug
+/armadillo-code-9.600.x/out/build/x64-Debug
